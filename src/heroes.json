@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Batman",
+        "image": "/assets/images/Batman.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Captain America",
+        "image": "/assets/images/Captain America.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Dracula",
+        "image": "/assets/images/Dracula.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Flash",
+        "image": "/assets/images/Flash.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Hellboy",
+        "image": "/assets/images/Hellboy.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Joker",
+        "image": "/assets/images/Joker.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Batman",
+        "image": "/assets/images/Magneto.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Penguin",
+        "image": "/assets/images/Penguin.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Spiderman",
+        "image": "/assets/images/Spiderman.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Superman",
+        "image": "/assets/images/Superman.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Thor",
+        "image": "/assets/images/Thor.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Wolverine",
+        "image": "/assets/images/Wolverine.jpg",
+        "clicked": false
+    }
+
+]
